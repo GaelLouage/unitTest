@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y62LS01dCjPO2Nm0rD88bix7lXGCeCc54XhWmmYfT/0qL7VwYJ5u6jKqwBFnAUddIAK5tSssWheyMgQCpj5lmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\louag\\source\\repos\\TutoUnitTests\\TutoUnitTest\\TutoUnitTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\louag\\.nuget\\packages\\nunit\\3.8.1\\nunit.3.8.1.nupkg.sha512",
+    "C:\\Users\\louag\\.nuget\\packages\\nunit3testadapter\\3.8.0\\nunit3testadapter.3.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
